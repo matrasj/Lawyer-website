@@ -331,7 +331,7 @@ html {
 
 .activity__title--main {
   font-size: 2.8rem;
-  color: #333;
+  color: red;
   font-weight: lighter;
   margin-bottom: 0.6rem;
   z-index: 10;
