@@ -127,7 +127,7 @@ html {
 }
 
 .about__content {
-  font-size: 1.8rem;
+  font-size: 1.8rem !important;
   line-height: 2;
   width: 50%;
 }
