@@ -127,7 +127,7 @@ html {
 }
 
 .about__content {
-  font-size: 2rem;
+  font-size: 1.6rem;
   line-height: 2;
   width: 50%;
 }
@@ -537,7 +537,7 @@ html {
   }
 
   .hero__title {
-    font-size: 3.4rem;
+    font-size: 4rem;
   }
 
   .gallery__image {
