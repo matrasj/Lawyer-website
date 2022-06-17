@@ -319,9 +319,10 @@ html {
   display: flex;
   flex-direction: column;
   list-style: square;
-  gap: 1rem;
+  gap: 2rem;
   margin-bottom: 3.8rem;
   z-index: 10;
+  padding-left: 3.2rem;
 }
 
 .activity__list li {
@@ -341,9 +342,10 @@ html {
   display: flex;
   flex-direction: column;
   list-style: circle;
-  gap: 1rem;
+  gap: 2rem;
   margin-bottom: 3.5rem;
   z-index: 10;
+  padding-left: 3.2rem;
 }
 
 .activity__list--main li {
