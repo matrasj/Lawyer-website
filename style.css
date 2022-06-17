@@ -127,7 +127,7 @@ html {
 }
 
 .about__content {
-  font-size: 2rem;
+  font-size: 2.8rem;
   line-height: 2;
   width: 50%;
 }
@@ -304,7 +304,7 @@ html {
 }
 
 .activity__title {
-  font-size: 3.2rem;
+  font-size: 3.8rem;
   color: #333;
   margin-bottom: 1.8rem;
   z-index: 10;
@@ -325,15 +325,16 @@ html {
 }
 
 .activity__list li {
-  font-size: 2.4rem;
+  font-size: 2.8rem;
   z-index: 10;
+  font-weight: lighter;
 }
 
 .activity__title--main {
-  font-size: 2.8rem;
+  font-size: 3.8rem;
   color: #333;
   font-weight: lighter;
-  margin-bottom: 0.6rem;
+  margin-bottom: 0.8rem;
   z-index: 10;
 }
 
@@ -347,8 +348,9 @@ html {
 }
 
 .activity__list--main li {
-  font-size: 2.2rem;
+  font-size: 2.4rem;
   z-index: 10;
+  font-weight: lighter;
 }
 
 .book__image {
@@ -376,7 +378,7 @@ html {
 }
 
 .contact__label {
-  font-size: 3.2rem;
+  font-size: 3.8rem;
   color: #333;
   font-weight: lighter;
   margin-bottom: 1.4rem;
@@ -535,7 +537,7 @@ html {
   }
 
   .hero__title {
-    font-size: 3.4rem;
+    font-size: 4.2rem;
   }
 
   .gallery__image {
@@ -569,6 +571,16 @@ html {
 
   .hero__section {
     height: min-content;
+  }
+
+  .activity__list--main {
+    padding-left: 3.4rem;
+    gap: 2.4rem;
+  }
+
+  .activity__list {
+    padding-left: 3.4rem;
+    gap: 2.4rem;
   }
 }
 
